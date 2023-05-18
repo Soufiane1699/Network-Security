@@ -1,0 +1,35 @@
+; <<>> DiG 9.16.1-Ubuntu <<>> @172.20.0.2 example.com
+## DiG 9.16.1-Ubuntu = Version von 'dig' || @172.20.0.2 = IP-Adresse des DNS-Servers || example.com ist der Name der Domain, für die die Abfrage gestellt wurde
+
+; (1 server found)
+## gibt an, dass ein DNS-Server gefunden wurde 
+
+;; global options: +cmd
+## global options: +cmd zeigt die globalen Optionen für den 'dig'-Befehl an 
+
+;; Got answer:
+## zeigt an, dass eine Antwort auf die Abfrage erhalten wurde 
+
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 43946
+## ->> HEADER<<- opcode: QUERY, status: NOERROR, id: 43946 enthält Informationen über den DNS-Header der Antwort 
+
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+## gibt die verschiedenen Flags und die Anzahl der in der Antwort enthaltenen Abschnitte an
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;example.com.			IN	A
+## zeigt den Bereich der gestellten Frage an 
+## example.com. IN A gibt den Domainnamen, und den Abfragetyp (A = IPv4)
+
+
+;; ANSWER SECTION:
+example.com.		0	IN	A	172.20.0.2
+
+;; Query time: 10 msec
+## gibt die Dauer der Abfrage in Millisekunden an 
+
+;; SERVER: 172.20.0.2#53(172.20.0.2)
+;; WHEN: Thu May 18 15:25:58 UTC 2023
+;; MSG SIZE  rcvd: 56
