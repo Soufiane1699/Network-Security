@@ -1,0 +1,33 @@
+version: '3'
+services:
+  server:
+    image: ubuntu:20.04
+    volumes:
+      - ./server-script.sh:/server-script.sh
+    command: /bin/bash /server-script.sh
+    networks:
+      app_network:
+        ipv4_address: 172.20.0.2
+  
+  client:
+    image: ubuntu:20.04
+    build:
+      context: .
+      dockerfile: Dockerfile.client
+    volumes:
+      - ./client-script.sh:/client-script.sh
+      - ./logs:/logs
+    command: /bin/bash /client-script.sh
+    depends_on:
+      - server
+    networks:
+      app_network:
+        ipv4_address: 172.20.0.3
+
+networks:
+  app_network:
+    driver: bridge
+    ipam:
+      driver: default
+      config: 
+      - subnet: 172.20.0.0/16

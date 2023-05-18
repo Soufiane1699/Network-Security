@@ -1,0 +1,318 @@
+
+; <<>> DiG 9.16.1-Ubuntu <<>> @172.20.0.2 example.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 43946
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;example.com.			IN	A
+
+;; ANSWER SECTION:
+example.com.		0	IN	A	172.20.0.2
+
+;; Query time: 10 msec
+;; SERVER: 172.20.0.2#53(172.20.0.2)
+;; WHEN: Thu May 18 15:25:58 UTC 2023
+;; MSG SIZE  rcvd: 56
+
+
+; <<>> DiG 9.16.1-Ubuntu <<>> @172.20.0.2 example.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4043
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;example.com.			IN	A
+
+;; ANSWER SECTION:
+example.com.		0	IN	A	172.20.0.2
+
+;; Query time: 0 msec
+;; SERVER: 172.20.0.2#53(172.20.0.2)
+;; WHEN: Thu May 18 15:26:28 UTC 2023
+;; MSG SIZE  rcvd: 56
+
+
+; <<>> DiG 9.16.1-Ubuntu <<>> @172.20.0.2 example.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23244
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;example.com.			IN	A
+
+;; ANSWER SECTION:
+example.com.		0	IN	A	172.20.0.2
+
+;; Query time: 0 msec
+;; SERVER: 172.20.0.2#53(172.20.0.2)
+;; WHEN: Thu May 18 15:26:58 UTC 2023
+;; MSG SIZE  rcvd: 56
+
+
+; <<>> DiG 9.16.1-Ubuntu <<>> @172.20.0.2 example.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 56413
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;example.com.			IN	A
+
+;; ANSWER SECTION:
+example.com.		0	IN	A	172.20.0.2
+
+;; Query time: 0 msec
+;; SERVER: 172.20.0.2#53(172.20.0.2)
+;; WHEN: Thu May 18 15:27:28 UTC 2023
+;; MSG SIZE  rcvd: 56
+
+
+; <<>> DiG 9.16.1-Ubuntu <<>> @172.20.0.2 example.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10633
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;example.com.			IN	A
+
+;; ANSWER SECTION:
+example.com.		0	IN	A	172.20.0.2
+
+;; Query time: 0 msec
+;; SERVER: 172.20.0.2#53(172.20.0.2)
+;; WHEN: Thu May 18 15:27:58 UTC 2023
+;; MSG SIZE  rcvd: 56
+
+
+; <<>> DiG 9.16.1-Ubuntu <<>> @172.20.0.2 example.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 25081
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;example.com.			IN	A
+
+;; ANSWER SECTION:
+example.com.		0	IN	A	172.20.0.2
+
+;; Query time: 0 msec
+;; SERVER: 172.20.0.2#53(172.20.0.2)
+;; WHEN: Thu May 18 15:28:28 UTC 2023
+;; MSG SIZE  rcvd: 56
+
+
+; <<>> DiG 9.16.1-Ubuntu <<>> @172.20.0.2 example.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 7762
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;example.com.			IN	A
+
+;; ANSWER SECTION:
+example.com.		0	IN	A	172.20.0.2
+
+;; Query time: 0 msec
+;; SERVER: 172.20.0.2#53(172.20.0.2)
+;; WHEN: Thu May 18 15:28:58 UTC 2023
+;; MSG SIZE  rcvd: 56
+
+
+; <<>> DiG 9.16.1-Ubuntu <<>> @172.20.0.2 example.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 48016
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;example.com.			IN	A
+
+;; ANSWER SECTION:
+example.com.		0	IN	A	172.20.0.2
+
+;; Query time: 0 msec
+;; SERVER: 172.20.0.2#53(172.20.0.2)
+;; WHEN: Thu May 18 15:29:28 UTC 2023
+;; MSG SIZE  rcvd: 56
+
+
+; <<>> DiG 9.16.1-Ubuntu <<>> @172.20.0.2 example.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 16729
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;example.com.			IN	A
+
+;; ANSWER SECTION:
+example.com.		0	IN	A	172.20.0.2
+
+;; Query time: 0 msec
+;; SERVER: 172.20.0.2#53(172.20.0.2)
+;; WHEN: Thu May 18 15:29:58 UTC 2023
+;; MSG SIZE  rcvd: 56
+
+
+; <<>> DiG 9.16.1-Ubuntu <<>> @172.20.0.2 badrequest.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 40818
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 9fd5be530ef403ac (echoed)
+;; QUESTION SECTION:
+;badrequest.com.			IN	A
+
+;; ANSWER SECTION:
+badrequest.com.		0	IN	A	198.251.81.30
+badrequest.com.		0	IN	A	107.161.23.204
+badrequest.com.		0	IN	A	209.141.38.71
+
+;; Query time: 80 msec
+;; SERVER: 172.20.0.2#53(172.20.0.2)
+;; WHEN: Thu May 18 15:30:28 UTC 2023
+;; MSG SIZE  rcvd: 103
+
+
+; <<>> DiG 9.16.1-Ubuntu <<>> @172.20.0.2 example.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 40191
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;example.com.			IN	A
+
+;; ANSWER SECTION:
+example.com.		0	IN	A	172.20.0.2
+
+;; Query time: 0 msec
+;; SERVER: 172.20.0.2#53(172.20.0.2)
+;; WHEN: Thu May 18 15:30:58 UTC 2023
+;; MSG SIZE  rcvd: 56
+
+
+; <<>> DiG 9.16.1-Ubuntu <<>> @172.20.0.2 example.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23083
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;example.com.			IN	A
+
+;; ANSWER SECTION:
+example.com.		0	IN	A	172.20.0.2
+
+;; Query time: 0 msec
+;; SERVER: 172.20.0.2#53(172.20.0.2)
+;; WHEN: Thu May 18 15:31:28 UTC 2023
+;; MSG SIZE  rcvd: 56
+
+
+; <<>> DiG 9.16.1-Ubuntu <<>> @172.20.0.2 example.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29525
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;example.com.			IN	A
+
+;; ANSWER SECTION:
+example.com.		0	IN	A	172.20.0.2
+
+;; Query time: 0 msec
+;; SERVER: 172.20.0.2#53(172.20.0.2)
+;; WHEN: Thu May 18 15:31:58 UTC 2023
+;; MSG SIZE  rcvd: 56
+
+
+; <<>> DiG 9.16.1-Ubuntu <<>> @172.20.0.2 example.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 3366
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;example.com.			IN	A
+
+;; ANSWER SECTION:
+example.com.		0	IN	A	172.20.0.2
+
+;; Query time: 0 msec
+;; SERVER: 172.20.0.2#53(172.20.0.2)
+;; WHEN: Thu May 18 15:32:28 UTC 2023
+;; MSG SIZE  rcvd: 56
+
+
+; <<>> DiG 9.16.1-Ubuntu <<>> @172.20.0.2 example.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27428
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;example.com.			IN	A
+
+;; ANSWER SECTION:
+example.com.		0	IN	A	172.20.0.2
+
+;; Query time: 10 msec
+;; SERVER: 172.20.0.2#53(172.20.0.2)
+;; WHEN: Thu May 18 15:32:58 UTC 2023
+;; MSG SIZE  rcvd: 56
+
