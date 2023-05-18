@@ -24,3 +24,6 @@ ganz oben ist
 - enthält Informationen über den Domainnamen
 
 
+| ----- | ----- |
+| ----- | ----- |
+| Spalte 1 | Spalte 2 |
