@@ -25,5 +25,6 @@ ganz oben ist
 
 
 
-| Spalte 1 | Spalte 2 |
-| ----- | ----- |
+| Spalte 1 | Spalte 2  |
+| -------- | --------  |
+| Opcode   | Bedeutung |
