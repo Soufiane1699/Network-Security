@@ -26,5 +26,8 @@ ganz oben ist
 
 | Opcode        | Bedeutung     |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Query         | Content Cell  |
+| IQuery        | Content Cell  |
+| Status        |               |
+| Notify        |               |
+| Update        |               |
