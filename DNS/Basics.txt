@@ -25,6 +25,7 @@ ganz oben ist
 
 
 
-| Spalte 1 | Spalte 2  |
-| -------- | --------  |
-| Opcode   | Bedeutung |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
