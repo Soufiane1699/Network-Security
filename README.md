@@ -1,11 +1,5 @@
 # Netwwork Security
 ![img](https://githubstoragesoufiane.blob.core.windows.net/container/cyberspace-2784907_1920.jpg)
-## Topics
-- TCP
-- Internet Protocol
-- TLS
-- DNS
-
 
 # Level 1 - Grundlagen
 - Grundlagen der Netzwerktechnologie (z.B. was ist ein Netzwerk, was ist ein IP-Adresse, was ist ein Port usw.)
