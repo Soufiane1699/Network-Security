@@ -24,3 +24,6 @@
 - der Client und der Server verwenden die symmetrischen Schlüssel, um die Nachrichten zu verschlüsseln und zu entschlüsseln
 - während des Handshakes wird entschieden, welche Verschlüsselungsalgorithmen verwendet werden sollen, um die Daten zu verschlüsseln
 - ebenfalls wird entschieden welche TLS-Version verwendet werden soll
+
+## Authentifizierung
+- bei jeder Verbindung authentifiziert 
