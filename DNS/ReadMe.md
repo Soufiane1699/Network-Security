@@ -1,3 +1,6 @@
+
+![DALL·E 2023-12-18 14 27 59 - A conceptual illustration highlighting the security aspects of the DNS protocol  The image features a stylized representation of the DNS protocol in a](https://github.com/Soufiane1699/Network-Security/assets/65159180/8dbb1428-b914-4309-b2a1-ca4e510546cf)
+
 Vier DNS-Server sind am Laden einer Webseite beteiligt
 - DNS Recursor
 - DNS-Stammserver
