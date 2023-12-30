@@ -37,3 +37,9 @@ ganz oben ist
 
 ## Host Datei unter Windows 
 C:\Windows\System32\drivers\etc
+
+## Öffentiche WHOIS Datenbanken
+[who.is](https://who.is/)<br>
+[whois.com](https://www.whois.com/whois/)<br>
+[whois.domaintools.com](https://whois.domaintools.com/)<br>
+[MxToolbox](https://mxtoolbox.com/)
