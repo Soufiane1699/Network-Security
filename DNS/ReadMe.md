@@ -43,3 +43,6 @@ C:\Windows\System32\drivers\etc
 [whois.com](https://www.whois.com/whois/)<br>
 [whois.domaintools.com](https://whois.domaintools.com/)<br>
 [MxToolbox](https://mxtoolbox.com/)
+
+## Suchen nach Zertifikate
+[crt.sh](https://crt.sh/)
