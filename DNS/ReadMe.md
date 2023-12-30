@@ -34,3 +34,6 @@ ganz oben ist
 | Status        |               |
 | Notify        |               |
 | Update        |               |
+
+## Host Datei unter Windows 
+C:\Windows\System32\drivers\etc
