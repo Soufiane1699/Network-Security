@@ -7,7 +7,7 @@ Der Query String wird mit einem Fragezeichen (?) eingeleitet<br>
 Jeder Parameter besteht aus einem Name=Wert Paar<br>
 Bei den Query-Strings muss auf die Zeichencodierung geachtet werden, da Sonderzeichen eine andere Bedeutung haben können<br>
 Das Tool bietet eine Unterstützung bei der Konvertierung <href>https://www.urlencoder.org/</href><br>
-Die Antwort für ein GET request ist cachbar 
+Die Antwort von einem GET request ist cachbar<br>
 Quellen:<br>
 <href>https://www.ionos.de/digitalguide/hosting/hosting-technik/http-request-erklaert/</href><br>
 <href>https://www.rfc-editor.org/rfc/rfc9110#GET</href>
